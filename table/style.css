@@ -1,0 +1,28 @@
+table{
+        border-collapse: collapse;
+        width: 50%;
+        margin: 30px auto;
+        }
+th,td{
+        padding: 30px;
+        border: 2px solid blue;
+        }
+th{
+        background-color: #8c69b4;
+        color: rgb(184, 8, 8);
+        }
+td{
+        background-color: goldenrod;
+        color: rgba(22, 46, 11, 0.678);
+        }
+body{
+        background-color: #e90f34;
+        text-shadow: #ad01f1;
+        margin: 0px; 
+        }
+h1{
+        text-align: center;
+}
+main{
+        background-image: url(foodie/jollof-isolated-transparent-background_191095-32101.avif);   
+}
